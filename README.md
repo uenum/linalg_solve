@@ -2,4 +2,8 @@ The program solves a system of linear equations in rational numbers. This approa
 
 There is a compiled executable for Windows in the bin/Release folder
 
-To build the program yourself use: make -f Makefile
+To build the program yourself use:<br />
+make -f Makefile
+
+To execute the program use:<br />
+linalg_solve input.txt
